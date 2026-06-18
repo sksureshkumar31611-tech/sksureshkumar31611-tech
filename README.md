@@ -67,16 +67,16 @@
 
 ### 📌 Featured Projects
 
-🔹 **[IoT Based Accident Detection System](#)** *(Jan 2026)*
+🔹 **[IoT Based Accident Detection System](https://github.com/sksureshkumar31611-tech/IoT-Accident-Detection-ESP8266-MPU6050-WhatsApp)** *(Jan 2026)*
 Designed an IoT system to detect accidents and automatically send location-based alerts using sensor and microcontroller integration.
 
-🔹 **[Real-Time Web Chart Application](#)** *(Feb 2026)*
+🔹 **[Real-Time Web Chart Application](https://github.com/sksureshkumar31611-tech/portfolio-website)** *(Feb 2026)*
 Built a real-time web chart application using HTML and CSS to display data in a structured, responsive dashboard format.
 
-🔹 **[IoT Temperature & Humidity Monitoring System](#)** *(Jan 2024)*
+🔹 **IoT Temperature & Humidity Monitoring System** *(Jan 2024)*
 Developed an IoT-based environmental monitoring system that collects real-time temperature and humidity data and transmits it to a cloud platform for remote tracking.
 
-> 💡 *Tip: Replace the `#` links above with the actual repo URLs once you push these projects to GitHub.*
+> 💡 *Couldn't confidently match this last project to one of your repos — let me know the repo name and I'll link it.*
 
 ---
 
@@ -99,14 +99,6 @@ Exploring AI & New Technologies • Game Development • Photoshop • Video Edi
   <img src="https://github-readme-stats.vercel.app/api?username=sksureshkumar31611-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksureshkumar31611-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sksureshkumar31611-tech/sksureshkumar31611-tech/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-> ⚙️ *The snake graph above needs a one-time GitHub Action setup in your repo (see note below). Until then, it won't render — that's expected, not a bug.*
 
 ---
 
