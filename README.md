@@ -97,12 +97,16 @@ Exploring AI & New Technologies • Game Development • Photoshop • Video Edi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sksureshkumar31611-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=sksureshkumar31611-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sksureshkumar31611-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sksureshkumar31611-tech/sksureshkumar31611-tech/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+> ⚙️ *The snake graph above needs a one-time GitHub Action setup in your repo (see note below). Until then, it won't render — that's expected, not a bug.*
 
 ---
 
